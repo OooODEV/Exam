@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6frnbEHjPXMxV6EfppZhQ5xCpsapqm7oDGG0JjMVx8DkXEEY1rqrqYMUa39h2+mngH11zzzkqTeTRRJ7io3SCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\igyan\\OneDrive\\Рабочий стол\\Exam\\Exam\\Exercise 2\\Exercise 2\\Exercise 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\igyan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\igyan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
